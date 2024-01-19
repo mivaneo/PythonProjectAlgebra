@@ -18,6 +18,7 @@ Vessels from the sensor send measurements to the application via an integrated B
 To use the application, the user must log in to the application. The application is not available to anonymous users. After a successful login, the user can view the status of all PyPots with associated plants.
 The user can add new PyPots to the application, and associate PyPots with plants from the integrated plant database. All application objects should have the possibility of CRUD operations (Create, Read, Update, Delete).
 During the first launch, the application has information about the user (first name, last name, username, and password), an initial plant database, and one PyPot (flower pot with integrated sensors).
+The application is in Croatian language.
 
 ## Acknowledgments
 
